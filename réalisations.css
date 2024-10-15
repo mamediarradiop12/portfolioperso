@@ -1,0 +1,60 @@
+.nav{display: flex;
+    background-color: #282E69;
+}
+
+ .logo{width: 100px;
+height: 100px;
+margin-right: 400px;
+       }
+.menu{margin-top: 30px;}
+
+ .propos{
+    display: flex;
+    background-image:linear-gradient( white, #282E69);
+border-bottom-left-radius: 90px;
+border-bottom-right-radius: 90px;
+width: 1530px;
+height: 600px;}
+
+ .acceuil{
+    color: white;
+    text-decoration: none;
+    margin-right: 50px;
+ }
+
+ .réalisations{
+    color: white;
+     text-decoration: none;
+     margin-left: 50px;
+ }
+.number{display: flex;
+    margin-top:40px;}
+.email{margin-right: 800px;}
+ .contact{
+    color: white;
+    text-decoration: none;
+    margin-left: 50px;
+ }
+ 
+ .services{
+    color: white;
+    text-decoration: none;
+ }
+
+ #rs{ 
+    margin-top: 30px;
+    color: white;
+    margin-left: 400px;
+ }
+ #moi {
+    height: 300px;
+    width: 100; 
+    margin-left: 10px;
+    margin-right: 80px;
+    border-radius: 500px;
+    margin-top: 30px;}
+    #A{width: 30px; height: 500px;}
+    #B{width:30px;height: 500px;
+    }
+    #C{width: px;height:500px;}
+    
